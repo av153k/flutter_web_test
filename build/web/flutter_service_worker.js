@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
+<<<<<<< Updated upstream
   ".git/COMMIT_EDITMSG": "55931fc40b590b239e0c06bf188ee650",
 ".git/config": "a5f15e5da56fb46a5fbe6d4519fcb8c0",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -98,6 +99,9 @@ const RESOURCES = {
 ".git/refs/heads/master": "dc299255bba9fa3b95da19c3915b9563",
 ".git/refs/remotes/origin/master": "dc299255bba9fa3b95da19c3915b9563",
 "assets/AssetManifest.json": "ea5364043f64ef9a02b7459db288732c",
+=======
+  "assets/AssetManifest.json": "ea5364043f64ef9a02b7459db288732c",
+>>>>>>> Stashed changes
 "assets/assets/fonts/Comfortaa-Bold.ttf": "801965b0436842e843141a5a6c1e387f",
 "assets/assets/fonts/Comfortaa-Light.ttf": "929fd78b1498549427891f76ea0f1e51",
 "assets/assets/fonts/Comfortaa-Medium.ttf": "1c593a568b347510402764c6b8e93a37",
@@ -108,7 +112,11 @@ const RESOURCES = {
 "assets/assets/images/scissor.png": "f49f8946e2c1cdbe73bf9522c96915ac",
 "assets/FontManifest.json": "e89ed83bf6d5774c3e303f19f62cc15a",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
+<<<<<<< Updated upstream
 "assets/NOTICES": "b03578ebc069c22186f5166c505a1da8",
+=======
+"assets/NOTICES": "9e04a9b41fa6d72e10bb7a69994ee4c2",
+>>>>>>> Stashed changes
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_icons/fonts/AntDesign.ttf": "3a2ba31570920eeb9b1d217cabe58315",
 "assets/packages/flutter_icons/fonts/Entypo.ttf": "744ce60078c17d86006dd0edabcd59a7",
@@ -131,7 +139,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "75a94a7c8efb50c3f35b690e18183081",
 "/": "75a94a7c8efb50c3f35b690e18183081",
+<<<<<<< Updated upstream
 "main.dart.js": "94d679d8d0c424785e36cfce1dd30a1b",
+=======
+"main.dart.js": "255091cc9138d67aae9fc4e4db50a5c8",
+>>>>>>> Stashed changes
 "manifest.json": "6c68c54497e48fb824bc9289968f84ea"
 };
 

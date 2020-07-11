@@ -36,9 +36,9 @@ class ThemeSwitcherWidget extends StatefulWidget {
 class _ThemeSwitcherWidgetState extends State<ThemeSwitcherWidget> {
   bool isDarkModeOn;
 
-  void switchDarkMode() {
+  void switchDarkMode(bool isDarkMode) {
     setState(() {
-      isDarkModeOn = !isDarkModeOn;
+      isDarkModeOn = isDarkMode;
     });
   }
 

@@ -24,11 +24,11 @@ class MyAppWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Rock Paper Scissor',
+      title: 'Rock Paper Scissors',
       theme: ThemeSwitcher.of(context).isDarkModeOn
           ? darkTheme(context)
           : lightTheme(context),
-      home: MyHomePage(title: 'Rock Paper Scissor'),
+      home: MyHomePage(title: 'Rock Paper Scissors'),
     );
   }
 }

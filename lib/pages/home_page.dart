@@ -113,7 +113,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               AutoSizeText(
-                                "Total Matches- ${(userScore + computerScore + draws)}",
+                                "Total Matches -> ${(userScore + computerScore + draws)}",
                                 style: TextStyle(
                                   fontWeight: FontWeight.w700,
                                 ),
